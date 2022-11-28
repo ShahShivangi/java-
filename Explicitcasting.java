@@ -1,4 +1,4 @@
-public class Main {
+public class Explicitcasting {
   public static void main(String[] args) {
     double myDouble = 9.78d;
     int myInt = (int) myDouble; 
